@@ -358,7 +358,7 @@ int main()
         {
             printf("Thank you for using the ATM. Goodbye!\n");
             printf("Developed by team Syntax Error,PUB!\n");
-            printf("Powered By Pundra University!\n");
+            printf("Powered By -Pundra University-!\n");
             break;
         }
     }
