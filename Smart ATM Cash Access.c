@@ -357,6 +357,7 @@ int main()
         if (choice != 5 && choice != 9 && !confirmAction("Do you want to perform another action?"))
         {
             printf("Thank you for using the ATM. Goodbye!\n");
+            printf("Developed by team Syntax Error!\n");
             break;
         }
     }
